@@ -1,0 +1,11 @@
+.ethqrc-admin-wrapper .ethqrc-logo,
+.ethqrc-admin-wrapper .ethqrc-admin-title h1 {
+  display: inline-block;
+  vertical-align: middle;
+}
+.ethqrc-admin-wrapper #ethqrc-indicator {
+  width: 100px;
+  height: auto;
+  display: inline-block;
+  vertical-align: middle;
+}
